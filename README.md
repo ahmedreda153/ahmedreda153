@@ -1,16 +1,18 @@
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Reda Elsayed</h1>
 <h3 align="center">Computer Science Student</h3>
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedreda153&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedreda153" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedreda153" alt="ahmedreda153" /></a> </p> -->
 
-<h2 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-reda-35b566265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:ahmedreda5338@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools</h3>
 <p align="center">
   <!-- Icons of tools and languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
