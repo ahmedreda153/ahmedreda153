@@ -40,7 +40,12 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
-<h2 align="center">My Stats</h3>
+<h2 align="center">GitHub Stats</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreda153&theme=radical&hide_border=false"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+
+<h2 align="center">GitHub Trophies</h3>
+<div align="center">
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=ahmedreda153&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
