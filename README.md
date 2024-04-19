@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedreda153" alt="ahmedreda153" /></a> </p> -->
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-reda-35b566265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -38,8 +38,6 @@
 </p>
 
 <h2 align="center">My Stats</h3>
-<p align="center" style="margin-bottom: 10px;">
-  <img style="margin-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreda153&theme=radical&hide_border=false"/><br/>
-  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreda153&theme=radical&hide_border=false"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
