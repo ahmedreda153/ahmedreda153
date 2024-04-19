@@ -10,9 +10,7 @@
   <a href="https://www.linkedin.com/in/ahmed-reda-35b566265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<hr> <!-- Added horizontal rule -->
-
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Icons of tools and languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -38,8 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
-
-<hr> <!-- Added horizontal rule -->
 
 <h2 align="center">My Stats</h3>
 <p align="center" style="margin-bottom: 10px;">
