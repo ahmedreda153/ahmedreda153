@@ -47,5 +47,5 @@
 
 <h2 align="center">GitHub Trophies</h3>
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=ahmedreda153&theme=radical&no-bg=false&no-frame=false&row=3&column=6"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=ahmedreda153&theme=radical&no-bg=false&no-frame=true&row=3&column=6"  alt="github profile trophy"/>
 </div>
