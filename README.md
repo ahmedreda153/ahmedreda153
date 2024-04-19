@@ -41,9 +41,9 @@
 
 <hr> <!-- Added horizontal rule -->
 
-<h3 align="center">My Stats</h3>
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreda153&theme=radical&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<h2 align="center">My Stats</h3>
+<p align="center" style="margin-bottom: 10px;">
+  <img style="margin-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreda153&theme=radical&hide_border=false"/><br/>
+  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreda153&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
